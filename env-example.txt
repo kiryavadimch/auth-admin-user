@@ -1,0 +1,2 @@
+MongoURI = 'MongoURI_here'
+SECRET = SECRET_KEY_RANDOM
